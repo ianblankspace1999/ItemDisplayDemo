@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bonial-examination</string>
+
+    <string name="button_text">Remove Filter</string>
+    <string name="button_text_filter">Closer to 5km distance</string>
+    <string name="button_refresh">Refresh</string>
+
+    <string name="error_dialog">Sorry, there was an unexpected Error</string>
+</resources>
